@@ -1,0 +1,34 @@
+{
+  "apkFileName": "Geometry_Dash_v2.2.13(38)_src.apk",
+  "VersionInfo": {
+    "versionName": "2.2.13",
+    "versionCode": "38"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {
+    "stamp-cert-sha256": "8",
+    "META-INF/com/android/build/gradle/app-metadata.properties": "8"
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc",
+    "png",
+    "ogg",
+    "mp3"
+  ],
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sparseResources": false,
+  "version": "2.4.0-231112",
+  "sharedLibrary": false,
+  "sdkInfo": {
+    "minSdkVersion": "21",
+    "targetSdkVersion": "33"
+  }
+}
