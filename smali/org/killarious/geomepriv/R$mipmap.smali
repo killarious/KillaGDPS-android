@@ -1,10 +1,10 @@
-.class public final Lcom/robtopx/geometryjump/R$mipmap;
+.class public final Lorg/killarious/geomepriv/R$mipmap;
 .super Ljava/lang/Object;
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/robtopx/geometryjump/R;
+    value = Lorg/killarious/geomepriv/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;

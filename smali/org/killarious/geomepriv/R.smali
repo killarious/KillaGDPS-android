@@ -1,15 +1,15 @@
-.class public final Lcom/robtopx/geometryjump/R;
+.class public final Lorg/killarious/geomepriv/R;
 .super Ljava/lang/Object;
 
 
 # annotations
 .annotation system Ldalvik/annotation/MemberClasses;
     value = {
-        Lcom/robtopx/geometryjump/R$color;,
-        Lcom/robtopx/geometryjump/R$drawable;,
-        Lcom/robtopx/geometryjump/R$mipmap;,
-        Lcom/robtopx/geometryjump/R$string;,
-        Lcom/robtopx/geometryjump/R$xml;
+        Lorg/killarious/geomepriv/R$color;,
+        Lorg/killarious/geomepriv/R$drawable;,
+        Lorg/killarious/geomepriv/R$mipmap;,
+        Lorg/killarious/geomepriv/R$string;,
+        Lorg/killarious/geomepriv/R$xml;
     }
 .end annotation
 

@@ -1,20 +1,20 @@
-.class public final Lcom/robtopx/geometryjump/R$color;
+.class public final Lorg/killarious/geomepriv/R$xml;
 .super Ljava/lang/Object;
 
 
 # annotations
 .annotation system Ldalvik/annotation/EnclosingClass;
-    value = Lcom/robtopx/geometryjump/R;
+    value = Lorg/killarious/geomepriv/R;
 .end annotation
 
 .annotation system Ldalvik/annotation/InnerClass;
     accessFlags = 0x19
-    name = "color"
+    name = "xml"
 .end annotation
 
 
 # static fields
-.field public static final ic_b:I = 0x7f010000
+.field public static final network_security_config:I = 0x7f050000
 
 
 # direct methods

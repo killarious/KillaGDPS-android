@@ -1,10 +1,10 @@
-.class public final Lcom/robtopx/geometryjump/BuildConfig;
+.class public final Lorg/killarious/geomepriv/BuildConfig;
 .super Ljava/lang/Object;
 .source "BuildConfig.java"
 
 
 # static fields
-.field public static final APPLICATION_ID:Ljava/lang/String; = "com.robtopx.geometryjump"
+.field public static final APPLICATION_ID:Ljava/lang/String; = "org.killarious.geomepriv"
 
 .field public static final BUILD_TYPE:Ljava/lang/String; = "release"
 

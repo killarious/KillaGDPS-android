@@ -3,7 +3,7 @@
     android:installLocation="auto"
     android:compileSdkVersion="33"
     android:compileSdkVersionCodename="13"
-    package="com.robtopx.geometryjump"
+    package="org.killarious.geomepriv"
     platformBuildVersionCode="33"
     platformBuildVersionName="13"
     xmlns:android="http://schemas.android.com/apk/res/android">
@@ -46,7 +46,7 @@
             android:value="cocos2dcpp" />
         <activity
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
-            android:name="com.robtopx.geometryjump.GeometryJump"
+            android:name="org.killarious.geomepriv.GeometryJump"
             android:exported="true"
             android:screenOrientation="landscape"
             android:configChanges="orientation|screenSize|smallestScreenSize"

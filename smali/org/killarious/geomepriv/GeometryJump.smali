@@ -1,4 +1,4 @@
-.class public Lcom/robtopx/geometryjump/GeometryJump;
+.class public Lorg/killarious/geomepriv/GeometryJump;
 .super Lorg/cocos2dx/lib/Cocos2dxActivity;
 .source "GeometryJump.java"
 
